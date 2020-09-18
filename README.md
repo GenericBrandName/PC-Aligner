@@ -1,1 +1,1 @@
-Please download from the tags page to the right
+Please download from the releases page to the right
